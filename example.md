@@ -85,3 +85,6 @@ Zoek altijd eerst naar Ionic componenten
 <div style="align-items: center; display: flex; justify-content: center">
 <img src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" width="200" style="padding-right: 20px"><img src="https://static.thenounproject.com/png/1748472-200.png" width="100"><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/56-apple-512.png" width="220">
 </div>
+
+
+## Vragen?
