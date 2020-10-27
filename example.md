@@ -73,6 +73,14 @@ export class AngularComponent {
 ## Wat hebben wij geleerd?
 
 
+Verschil tussen angular routing en ionic routing
+
+<span style="color: #d6b611">/connectE</span>/<span style="color: #18c1c9;">{{employerAcertaKey}}</span><span style="color: #8bc918">/calendar/</span>
+
+
+Ionic cached zijn components, dus ngOnInit/ngOnDestroy reageert anders dan verwacht!
+
+
 Write once is tot nu toe een mythe
 
 
