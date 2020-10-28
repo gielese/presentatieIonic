@@ -73,6 +73,9 @@ export class AngularComponent {
 ## Wat hebben wij geleerd?
 
 
+Start dadelijk met Ionic
+
+
 Verschil tussen angular routing en ionic routing
 
 <span style="color: #d6b611">/connectE</span>/<span style="color: #18c1c9;">{{employerAcertaKey}}</span><span style="color: #8bc918">/calendar/</span>
