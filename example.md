@@ -36,7 +36,7 @@ Bekende frameworks
 ````shell script
 $ npm install -g @ionic/cli
 $ ionic start
-$ ionic server
+$ ionic serve
 ````
 
 
